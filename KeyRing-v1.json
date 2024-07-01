@@ -1,0 +1,62 @@
+{
+    "parameterSets": {
+        "v1-100": {
+            "BarbAngle": "75",
+            "BarbLength": "1",
+            "BarbProtrude": "1",
+            "FemaleSideThickness": "1",
+            "FemaleTolerance": "0.8",
+            "FragmentsRegular": "10",
+            "FragmentsSmooth": "100",
+            "LeadLength": "30",
+            "LeadTipWidth": "1",
+            "MaleChamfer": "0",
+            "MaleLength": "100",
+            "MaleWidth": "2",
+            "PrintTie": "true",
+            "ShowFemale": "false",
+            "Smooth": "true",
+            "StopperLength": "1.2",
+            "VeryThin": "0.001"
+        },
+        "v1-50": {
+            "BarbAngle": "75",
+            "BarbLength": "1",
+            "BarbProtrude": "1",
+            "FemaleSideThickness": "1",
+            "FemaleTolerance": "0.8",
+            "FragmentsRegular": "10",
+            "FragmentsSmooth": "100",
+            "LeadLength": "30",
+            "LeadTipWidth": "1",
+            "MaleChamfer": "0",
+            "MaleLength": "50",
+            "MaleWidth": "2",
+            "PrintTie": "true",
+            "ShowFemale": "false",
+            "Smooth": "true",
+            "StopperLength": "1.2",
+            "VeryThin": "0.001"
+        },
+        "v1-70": {
+            "BarbAngle": "75",
+            "BarbLength": "1",
+            "BarbProtrude": "1",
+            "FemaleSideThickness": "1",
+            "FemaleTolerance": "0.8",
+            "FragmentsRegular": "10",
+            "FragmentsSmooth": "100",
+            "LeadLength": "30",
+            "LeadTipWidth": "1",
+            "MaleChamfer": "0",
+            "MaleLength": "70",
+            "MaleWidth": "2",
+            "PrintTie": "true",
+            "ShowFemale": "false",
+            "Smooth": "true",
+            "StopperLength": "1.2",
+            "VeryThin": "0.001"
+        }
+    },
+    "fileFormatVersion": "1"
+}

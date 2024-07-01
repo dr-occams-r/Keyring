@@ -62,3 +62,4 @@ Loop locked into the barb slot, keyring complete
 ![](Images/PrusaSlicerView2.png)
 
 ## Thingiverse Link
+https://www.thingiverse.com/thing:6680934
